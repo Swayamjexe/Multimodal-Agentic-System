@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+langgraph
+langchain
+langchain-community
+groq
+pymupdf
+easyocr
+faster-whisper
+youtube-transcript-api
+python-multipart
+python-dotenv
+requests
+gradio
